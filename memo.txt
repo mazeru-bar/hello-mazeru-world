@@ -1,0 +1,9 @@
+﻿C:\Users\unagi\Documents\Code_made_by_Python\Flask_Project\gacha
+conda activate flask_project_env
+python run.py
+
+conda list -e > requirements.txt
+
+git add -A .
+git commit -m ''
+git push github.com/mazeru-bar/
