@@ -6,5 +6,5 @@ conda list -e > requirements.txt
 
 git add -A .
 git commit -m ''
-git remote add origin git@github.com:mazeru-bar/flaskapp-mzr.git
+git remote add origin git@github.com:mazeru-bar/hello-mazeru-world.git
 git push origin master
