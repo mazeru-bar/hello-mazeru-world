@@ -11,13 +11,6 @@ from keras.applications.vgg16 import VGG16, preprocess_input, decode_predictions
 from keras.preprocessing import image
 from tensorflow.python.keras.backend import set_session
 
-#データベース用
-"""
-from models.models import DBContent
-from models.database import db_session
-from datetime import datetime
-"""
-
 sess = tf.Session()
 graph = tf.get_default_graph()
 set_session(sess)
