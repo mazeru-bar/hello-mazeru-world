@@ -4,7 +4,10 @@
 _tflow_select=2.2.0=eigen
 absl-py=0.9.0=py36h9f0ad1d_1
 astor=0.7.1=py_0
+backports=1.0=py_2
+backports.weakref=1.0.post1=py36h9f0ad1d_1001
 blas=1.0=mkl
+bleach=1.5.0=py36_0
 blinker=1.4=py_1
 ca-certificates=2019.11.28=hecc5488_0
 cachetools=3.1.1=py_0
@@ -25,6 +28,7 @@ gunicorn=20.0.4=pypi_0
 h5py=2.10.0=nompi_py36h422b98e_102
 hamlish-jinja=0.3.3=pypi_0
 hdf5=1.10.5=nompi_ha405e13_1104
+html5lib=0.9999999=py36_0
 icc_rt=2019.0.0=h0cc432a_1
 idna=2.9=py_1
 intel-openmp=2020.0=166
@@ -84,8 +88,8 @@ setuptools=46.1.3=py36h9f0ad1d_0
 six=1.14.0=py_1
 sqlalchemy=1.3.15=py36h68a101e_1
 sqlite=3.30.1=hfa6e2cd_0
-tensorboard=2.1.0=py3_0
-tensorflow=2.1.0=eigen_py36hdbbabfe_0
+tensorboard=1.5.1=py36_1
+tensorflow=1.5.0=py36_0
 tensorflow-base=2.1.0=eigen_py36h49b2757_0
 tensorflow-estimator=2.1.0=pyhd54b08b_0
 termcolor=1.1.0=py_2
@@ -95,6 +99,7 @@ urllib3=1.25.7=py36h9f0ad1d_1
 vc=14.1=h0510ff6_4
 vs2015_runtime=14.16.27012=hf0eaf9b_1
 vs2015_win-64=14.0.25420=h55c1224_11
+webencodings=0.5.1=py_1
 werkzeug=0.16.1=py_0
 wheel=0.34.2=py_1
 win_inet_pton=1.1.0=py36_0
